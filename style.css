@@ -1,0 +1,14 @@
+#background{
+	height: 720px;
+	width: 1280px;
+	background-color: lightgrey;
+}
+#player{
+	position: relative;
+	height: 64px;
+	width: 64px;
+	background-color: lightblue;
+	border: 1px solid black;
+	bottom: -600px;
+	left: 0px;
+}
